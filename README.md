@@ -21,7 +21,7 @@ This function has 3 parameters
 
 	load_jquery('google', FALSE, '1.6.2');
 
-#load_files()
+##load_files()
 
 	load_files(array('reset.css', 'style.css'), 'css', 'css/new-theme');
 The code above load two stylesheets (reset.css and style.css) from the css/new-theme directory into your view.
